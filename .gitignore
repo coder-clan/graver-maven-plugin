@@ -1,0 +1,12 @@
+### Jetbrains ###
+**/.idea
+**/*.iml
+**/*.ids
+**/*.iws
+**/*.ipr
+
+### Apache Maven ###
+**/target/
+
+### macOS ###
+**/.DS_Store
